@@ -2,6 +2,6 @@
 
 ![Kilim](http://gifyu.com/images/kilim2.gif)
 
-Demo: https://fatiherikli.github.io/kilim-motifs/
+Demo: https://otomat-hackathon.github.io/kilim-motifs/
 
 
